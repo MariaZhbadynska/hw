@@ -1,0 +1,26 @@
+nav {
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  width: 540px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  padding: 15px 0;
+  background-color: #4A90E2;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+nav a {
+  font-size: 18px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #ffffff;
+  padding: 10px 20px;
+  border-radius: 8px;
+}
+
+
+.menu-active-link {
+  background-color: #357ABD;
+}

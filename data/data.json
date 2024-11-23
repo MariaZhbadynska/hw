@@ -1,0 +1,39 @@
+{
+    "messages": [
+      {
+        "id": 1,
+        "from": "john.doe@example.com",
+        "to": "you",
+        "subject": "Meeting Reminder",
+        "message": "Just a reminder about our meeting tomorrow at 10am."
+      },
+      {
+        "id": 2,
+        "from": "alice.smith@example.com",
+        "to": "you",
+        "subject": "Invoice #12345",
+        "message": "Please find attached the invoice for your recent purchase."
+      },
+      {
+        "id": 3,
+        "from": "bob.jones@example.com",
+        "to": "you",
+        "subject": "Weekly Update",
+        "message": "Here is the weekly update on the project status."
+      },
+      {
+        "id": 4,
+        "from": "carol.white@example.com",
+        "to": "you",
+        "subject": "Event Invitation",
+        "message": "You are invited to our annual company event next month."
+      },
+      {
+        "id": 5,
+        "from": "dave.brown@example.com",
+        "to": "you",
+        "subject": "Job Opportunity",
+        "message": "We have an exciting job opportunity for you. Check it out!"
+      }
+    ]
+  }

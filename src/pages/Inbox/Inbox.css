@@ -1,0 +1,18 @@
+.Inbox div {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    width: 500px;
+    padding: 20px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+}
+
+
+
+.Inbox span p {
+    margin: 0;
+    color: #666;
+    font-size: 17px;
+}
